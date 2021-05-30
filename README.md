@@ -1,5 +1,8 @@
 # Love-Calculator
 
+![imgae-of-love-calculator](https://imgur.com/OEu6jyl.png)
+
+
 [demo](https://our-love-calculator.netlify.app/)
 
 ## it is an love-calculator, which will know you the love status between the couples.
