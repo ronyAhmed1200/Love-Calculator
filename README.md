@@ -1,16 +1,17 @@
 # Love-Calculator
 
-![imgae-of-love-calculator](https://imgur.com/OEu6jyl.png)
-
+![img-of-love-calculator](https://imgur.com/Ic3UY8I.png)
 
 [demo](https://our-love-calculator.netlify.app/)
 
 ## it is an love-calculator, which will know you the love status between the couples.
-    + it is fun 
+
+    + it is fun
     + you can also calculate the love status between celebrities for fun
     + plz don't take it so seriously. Just take it only as fun.
 
 ### I have made it with -
+
     *html
     *css
     *javascript
